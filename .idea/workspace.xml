@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdd46a5b-cddd-4ba3-bab2-1846ac766ae8" name="Changes" comment="Added support for appium 3">
+      <change beforePath="$PROJECT_DIR$/results/TestResults.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/results/TestResults.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="498d43d7-186c-46dd-b19d-021acd73baec" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oQI8jGEFjJJ27JFymAC63qNaSg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RunTest.executor": "Run",
+    "Cucumber Java.Feature: Currency_Exchange.executor": "Run",
+    "Cucumber Java.Feature: Daily_TST_Run.executor": "Run",
+    "Cucumber Java.Feature: Payment_Limits.executor": "Run",
+    "Cucumber Java.Feature: SEPA_Payments.executor": "Run",
+    "Cucumber Java.Feature: Verification_Of_Payee.executor": "Run",
+    "Cucumber Java.Scenario: Android-Izbira_racuna_(Context_selector).executor": "Run",
+    "Cucumber Java.Scenario: Android-Izvedba_PSD2_placila_v_breme_OR(Debit_ACC_je_definiran_v_API).executor": "Run",
+    "Cucumber Java.Scenario: Android-Kreiranje_novega_soglasja_na_OR.executor": "Run",
+    "Cucumber Java.Scenario: Android-PSD2_Login-napacni_vnos.executor": "Run",
+    "Cucumber Java.Scenario: Android-PSD2_Login-napačni_vnos.executor": "Run",
+    "Cucumber Java.Scenario: Android-PSD2_Login-vnos_pravilnih_podatkov.executor": "Run",
+    "Cucumber Java.Scenario: Authorized_Personal_Account_to_Personal_account-EUR-[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-STATEMANTS-DOWNLOADS_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-STATEMANTS-FILTER_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-DETAILS-ADD_TAG_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-DETAILS-TRANSACTION_CONFIRMATION_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-FILTER_BY_DATE-(custom_date_range)_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-FILTER_BY_DATE-(options)_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-FILTER_BY_TAGS_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-FILTER_BY_TYPE_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-OVERVIEW_BY_DIFFERENT_CURRENCIES_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-OVERVIEW_BY_DIFFERENT_CURRENCIES_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-OVERVIEW_BY_DIFFERENT_CURRENCIES_[MOB_ANDROID]_4.executor": "Run",
+    "Cucumber Java.Scenario: CURRENT_ACCOUNTS-TRANSACTIONS-OVERVIEW_BY_DIFFERENT_CURRENCIES_[MOB_ANDROID]_5.executor": "Run",
+    "Cucumber Java.Scenario: Credit_Cards-Details-Card_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Credit_Cards-Details-Financial_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Credit_Cards-Details-Financial_Details_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Credit_Cards-Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Credit_Cards-Tranasctions-Details-Transaction_Confirmation_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Credit_Cards-Tranasctions-Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Debit_Card_Settings-Enabled/Disabled_Lock_Card_Option_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Details-Account_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Details-Account_Details_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Details-Bundle_Service_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Details-Bundle_Service_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Details-Debit_Card_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Details-Financial_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Details-Financial_Details_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Transactions-Details_[MOB_ANDROID] (1).executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Transactions-Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Transactions-Details_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Transactions-Filter_By_Amount_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Transactions-Filter_By_Categories_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Current_Accounts-Transactions-List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Financial_Instruments_Accounts-Details-Account_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Financial_Instruments_Accounts-Details-NLB_Application_For_Financial_Instruments_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Financial_Instruments_Accounts-Details-Recipient_Data_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payment_Fee_Change_Balance_Foreign_SEPA_Foreign_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payments_Payment_In_The_Future.executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payments_Payment_To_EGP_Account_EUR.executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payments_Payment_To_Foreign_Account_EUR.executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payments_Payment_To_Foreign_Account_USD.executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payments_Payment_To_NON_EGP_Account_EUR.executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payments_Payment_To_SI_Account-Foreign_Currency_Currency_Does_Not_Exist_On_The_Account.executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payments_Payment_To_SI_Account-Foreign_Currency_Currency_Exists_On_The_Account.executor": "Run",
+    "Cucumber Java.Scenario: Foreign_Payments_Payment_To_SI_Account-Foreign_Currency_Currency_Exists_On_The_Account_TST.executor": "Run",
+    "Cucumber Java.Scenario: GRADUAL_SAVINGS_ACCOUNTS-STATEMANTS-DOWNLOADS_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: GRADUAL_SEVINGS_ACCOUNTS-TRANSACTIONS-DETAILS-TRANSACTION_CONFIRMATION_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: GRADUAL_SEVINGS_ACCOUNTS-TRANSACTIONS-FILTER_BY_DATE-(custom_date_range)-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: GRADUAL_SEVINGS_ACCOUNTS-TRANSACTIONS-FILTER_BY_DATE-(custom_date_range)_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: General_Dashboard_Page_overview_[Android].executor": "Run",
+    "Cucumber Java.Scenario: General_User_Profile_Edit_Email_On_User_Profile-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: General_User_Profile_Edit_Email_On_User_Profile_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: General_User_Profile_Edit_Fix_Phone_Number_On_User_Profile-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: General_User_Profile_Edit_Fix_Phone_Number_On_User_Profile_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: General_User_Profile_Edit_Mobile_Number_On_User_Profile-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: General_User_Profile_Edit_Mobile_Number_On_User_Profile_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: General_User_Profile_View_User_Data_On_User_Profile_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Gradual_Savings-Transactions-Details-Complaint_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Gradual_Savings-Transactions-Details-Inquiry_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Gradual_Savings-Transactions-Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Gradual_Savings-Transactions-Filter_By_Type_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Gradual_Savings-Transactions-List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Gradual_Savings_Accounts-Details-Account_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Gradual_Savings_Accounts-Details-Account_Details_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Gradual_Savings_Accounts-Details-Financial_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Failure_Invalid_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Invalid_Input_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Match-Recipient_Name_Fully_Matches_With_VOP_Register_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_No_Match-Recipient_Name_Does_Not_Match_With_VOP_Register_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_On_New_Standing_Order-VOP_Match-Recipient_Name_Fully_Matches_With_VOP_Register_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_On_New_Standing_Order-VOP_No_Match-Recipient_Name_Does_Not_Match_With_VOP_Register_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_On_New_Standing_Order-VOP_Partial_Match-Recipient_Name_Partially_Matches_With_VOP_Register_[ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_On_New_Standing_Order-VOP_Partial_Match-Recipient_Name_Partially_Matches_With_VOP_Register_[ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_On_New_Standing_Order-VOP_Partial_Match-Recipient_Name_Partially_Matches_With_VOP_Register_[ANDROID]_3.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_On_New_Standing_Order-VOP_Skipped-Recipient_Prefilled_From_Legal_Entities_Public_Registry_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Partial_Match-Recipient_Name_Partially_Matches_With_VOP_Register_[ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Partial_Match-Recipient_Name_Partially_Matches_With_VOP_Register_[ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Partial_Match-Recipient_Name_Partially_Matches_With_VOP_Register_[ANDROID]_3.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Recipient_Already_Saved_SEPA_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Recipient_Already_Saved_Standing_Order_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Recipient_Already_Saved_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payment-VOP_Skipped-Recipient_Prefilled_From_Legal_Entities_Public_Registry_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit-Set_Daily_Limit_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit-Set_Limit_per_Transaction_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit_Daily_Limit_Below_Transaction_[Android]_Invalid.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit_Daily_Limit_Invalid_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit_Exceed_Limit_Current_Payment_Date_[Android]_Invalid_Daily_Limit.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit_Exceed_Limit_Current_Payment_Date_[Android]_Invalid_Daily_Limit_Second_Account.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit_Exceed_Limit_Current_Payment_Date_[Android]_Invalid_Transaction_Limit.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit_Exceed_Limit_Current_Payment_Date_[Android]_Invalid_Transaction_Limit_Second_Account.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit_Transaction_Limit_Above_Daily_[Android]_Invalid.executor": "Run",
+    "Cucumber Java.Scenario: Instant_Payments_Limit_Transaction_Limit_Invalid_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Loan_Accounts-Details-Account_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Loan_Accounts-Details-Financial_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: NLB_Funds_Accounts-Details-Financial_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: NLB_Funds_Accounts-Details-Movement_Of_Net_Asset_Value_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: NLB_Funds_Accounts-Details-Sub_Fund_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: NLB_Funds_Accounts-Transactions-Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: NLB_Funds_Accounts-Transactions-List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Own_account_-Insufficient_funds[Android].executor": "Run",
+    "Cucumber Java.Scenario: Own_account_-Insufficient_funds[Android]_TST.executor": "Run",
+    "Cucumber Java.Scenario: PAYMENTS-PAYMENTS_ARCHIVE-FILTER_PAYMENTS_TRANSACTION_BY_DATE_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: PFM_Categorization_Automatic_Categorization_Of_Transactions_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: PFM_Categorization_Manual_Categorization_Of_Transactions_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: PFM_Categorization_Manual_Categorization_Of_Transactions_[ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: PFM_Categorization_Split_Of_Transactions_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: PFM_Insights_Cashflow_Displaying_Data_For_The_Selected_Account_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange-Pricelist_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_CHF_To_EUR_Auth_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_CHF_To_EUR_Auth_Savings_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_CHF_To_EUR_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_CHF_To_EUR_Savings_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_CHF_Personal_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_CHF_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_CHF_Savings_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_CHF_Savings_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_GBP_Personal_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_GBP_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_GBP_Savings_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_GBP_Savings_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_HUF_Personal_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_HUF_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_HUF_Savings_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_HUF_Savings_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_NOK_Personal_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_NOK_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_NOK_Savings_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_NOK_Savings_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_USD_Auth_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_USD_Personal_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_USD_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_USD_Savings_Account_Destination_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_EUR_To_USD_Savings_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_USD_To_EUR_Auth_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_USD_To_EUR_Personal_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Currency_Exchange_USD_To_EUR_Savings_Account_Source_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Details_Of_E_Invoices_E-credit_note_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Details_Of_E_Invoices_E-debit_note_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Details_Of_E_Invoices_E-invoice_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Details_Of_E_Invoices_E-payment_notice_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Details_Of_E_Invoices_E-proforma_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_List_Of_E_Invoices_For_Selected_Account_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Mark_As_Paid_E_Invoices_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Options_On_Details_Of_E_Invoices_In_Rejection_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Options_On_Details_Of_E_Invoices_Mark_As_Paid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Options_On_Details_Of_E_Invoices_Payment_Sent_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Options_On_Details_Of_E_Invoices_Rejected_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Options_On_Details_Of_E_Invoices_Waiting_For_Payment_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Pay_E_Invoices_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Reject_E_Invoices_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Subscribe_To_E_Invoice-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Subscribe_To_E_Invoice_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Unsubscribe_To_E_Invoice-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_E_Invoices_Unsubscribe_To_E_Invoice_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments-Back_Button_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments-Confirmation-invalid_Then_Confirm[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments-Confirmation-invalid_Then_Reject[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments-Confirmation_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments-Input-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments-Input_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments-Modify_Data_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments_Cancel_Button_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Foreign_Payments_Cancel_Button_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Back_Button_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Cancel_Button_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Cancel_Button_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Confirmation_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Confirmation_invalid_Then_Confirm[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Confirmation_invalid_Then_Reject[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Input-Invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Input_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Own_Account_Transfer-Modify_Data_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payment_Wizard-Cancel_Button_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payment_Wizard-Invalid_Account_Input_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payment_Wizard-Invalid_Amount_Input_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payment_Wizard-Mandatory_Fields_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payment_Wizard_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payment_Wizard_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Create_Confirmation_For_Foreign_Transfer_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Create_Confirmation_For_Internal_Transfer_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Create_Confirmation_For_SEPA_Transfer_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Payments_Transaction_List_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Canceled_Foreign_Payment_From_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Canceled_Internal_Payment_From_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Canceled_SEPA_Payment_From_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Executed_Foreign_Payment_From_Authorized_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Executed_Foreign_Payment_From_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Executed_Internal_Payment_From_Authorized_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Executed_Internal_Payment_From_Authorized_Savings_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Executed_Internal_Payment_From_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Executed_Internal_Payment_From_Savings_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Executed_SEPA_Payment_From_Authorized_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Archive_Repeat_Executed_SEPA_Payment_From_Current_Account_[Android].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Payments_Overview_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Recipient_List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Repeat_Payment_From_Last_5_Payments_Of_Recipient_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient-Invalid_EGP_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient-Invalid_Non-EGP_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient-Invalid_SEPA_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient-Invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient_Foreign_Payment_EGP_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient_Foreign_Payment_EGP_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient_Foreign_Payment_NON_EGP_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient_Foreing_Payment_EGP_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient_UPN_Account_Number_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Save_New_Recipient_UPN_Account_Number_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Search_Recipient_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Recipient_Update_And_Edit_Recipient_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SDD_Archive_Payments_Transaction_Details_Executed_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SDD_Archive_Payments_Transaction_Details_Refunded_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SDD_Archive_Payments_Transaction_Details_Refused_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SDD_Archive_Payments_Transaction_List_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SDD_Archive_Request_SDD_Refund_For_Transaction_That_Already_Was_Requested_Invalid_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Authorized_Personal_Account_to_Corporate_Account-EUR_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Authorized_Personal_Account_to_Retail_Account-EUR_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Back_Button_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Cancel_Button_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Cancel_Button_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Confirmation-invalid_Then_Confirm_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Confirmation-invalid_Then_Reject_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Confirmation_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Input-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Input_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Payments-Modify_Data_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Personal_Account_Reference_RF_to_Corporate_Account-EUR_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Personal_Account_Reference_SI_99_to_Corporate_Account-EUR_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Personal_Account_Reference_SI_to_Corporate_Account-EUR_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Personal_Account_to_Corporate_Account-EUR_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Personal_Account_to_Corporate_Account-EUR_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Personal_Account_to_Retail_Account-EUR_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Personal_Account_to_Retail_Account-EUR_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Payments_SEPA_Personal_Account_to_Retail_Account_In_Future-EUR_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Cancellation_Of_Active_Standing_Order_Own_Account_Transfer_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Cancellation_Of_Active_Standing_Order_SEPA_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order-Rejected_Confirmation_Internal_Expiration_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order-Rejected_Confirmation_Internal_Reject_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order-Rejected_Confirmation_Internal_Wrong_PIN_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order-Rejected_Confirmation_SEPA_Expiration_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order-Rejected_Confirmation_SEPA_Reject_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order-Rejected_Confirmation_SEPA_Wrong_PIN_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_Corporate_SEPA_Payments_From_Own_Personal_Account_End_Date_On_Date.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_Corporate_SEPA_Payments_From_Own_Personal_Account_End_Date_Until_Cancellation.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_Own_Transfer_Invalid_Date[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_Own_Transfer_Invalid_Debtor_Account_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_SEPA_Invalid_Account_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_SEPA_Invalid_Debtor_Account_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_SEPA_Invalid_Start_Date_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_Savings_Internal_Payment_From_Own_Personal_Account_End_Date_On_Date.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_Create_New_Standing_Order_For_Savings_Internal_Payment_From_Own_Personal_Account_End_Date_Until_Cancellation.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Standing_Orders_List_Of_Standing_Orders_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Upcoming_Payments_Cancel_Payment_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Payments_Upcoming_Payments_Cancel_Payment_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Payments_Upcoming_Payments_List_Of_Transactions_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Personal_Account_to_Authorized_Personal_account-EUR-[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Personal_Account_to_Gradual_Savings_account-EUR-[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Personal_Account_to_Personal_account-EUR-[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Personal_Account_to_Savings_Account_In_The_Future_EUR.executor": "Run",
+    "Cucumber Java.Scenario: Personal_Account_to_Savings_account-EUR-[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Credit_Card_List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view-edit_name_of_account-invalid_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view-edit_name_of_account-invalid_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view-edit_name_of_account-invalid_[MOB_ANDROID]_4.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view-edit_name_of_account_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view-edit_name_of_account_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view-edit_name_of_account_[MOB_ANDROID]_3.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view-edit_name_of_account_[MOB_ANDROID]_4.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Edit_Product_view_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Financial_Instruments_List_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Gradual_Savings_List_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Loan_List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-NLB_Funds_List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Savings_Accounts_List_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Savings_Accounts_List_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Savings_Accounts_List_[MOB_ANDROID]_3.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Term_Deposit_List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary-Vita_Insurance_List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary_Favorite_account_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Product_Summary_Sorting_on_the_Product_Summary_[ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Product_Summmary-Current_Accounts_List_[MOB_ANDROID]_1.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summmary-Current_Accounts_List_[MOB_ANDROID]_2.executor": "Run",
+    "Cucumber Java.Scenario: Product_Summmary-Current_Accounts_List_[MOB_ANDROID]_3.executor": "Run",
+    "Cucumber Java.Scenario: SAVINGS_ACCOUNTS-TRANSACTIONS-DETAILS-TRANSACTION_CONFIRMATION_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: SAVINGS_ACCOUNTS-TRANSACTIONS-FILTER_BY_DATE-(custom_date_range)_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: SAVINGS_ACCOUNTS-TRANSACTIONS-FILTER_BY_DATE-(options)_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: SAVINGS_ACCOUNTS-TRANSACTIONS-FILTER_BY_TYPE_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: SEPA_-Insufficient_funds[Android].executor": "Run",
+    "Cucumber Java.Scenario: SEPA_-Insufficient_funds[Android]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Savings_Account_to_Personal_account-EUR-[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts-Details-Account_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts-Details-Account_Details_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts-Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts-Transactions-Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts-Transactions-Details_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts-Transactions-Overview_By_Different_Currencies_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts-Transactions_List_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts-Transactions_List_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts_Details-Financial_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Savings_Accounts_Details-Financial_Details_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Forgot_Pin_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Generate_OTP-invalid_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Generate_OTP_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Generate_OTP_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Login_Page_Design_And_Elements_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Login_With_Pin_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Login_With_Pin_[MOB_ANDROID]_TST.executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Logout_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Session_Expired_Due_To_Inactivity_Resume_Activity_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Security_And_Authentication_Session_Expired_Due_To_Inactivity_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Term_Deposits_Accounts-Details-Account_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Term_Deposits_Accounts-Details-Financial_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: VITA_INSURANCE_ACCOUNTS-DETAILS_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: VITA_INSURANCE_ACCOUNTS-STATEMANTS-FILTER_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Vita_Insurance_Accounts-Details-Financial_Details_[MOB_ANDROID].executor": "Run",
+    "Cucumber Java.Scenario: Vita_Insurance_Accounts-Details-Insurance_Details_[MOB_ANDROID].executor": "Run",
+    "Maven.NLBMobileAutomation [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jelena Bulajic/Desktop/NLB/NLB-Group-Retail-Mobile/nlb-mob",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Product_Summary_Favorite_account_[MOB_ANDROID]">
+    <configuration name="RunTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="si.nlb.testautomation.NLBMobileAutomation.Test.RunTest" />
+      <module name="NLBMobileAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="si.nlb.testautomation.NLBMobileAutomation.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Authorized_Personal_Account_to_Personal_account-EUR-[MOB_ANDROID]" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Own_Account_Transfer.feature" />
+      <option name="GLUE" value="si.nlb.testautomation.NLBMobileAutomation.Test" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="NLBMobileAutomation" />
+      <option name="NAME_FILTER" value="^Authorized_Personal_Account_to_Personal_account\-EUR\-\[MOB_ANDROID\]$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Authorized_Personal_Account_to_Personal_account\-EUR\-\[MOB_ANDROID\]$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Authorized_Personal_Account_to_Personal_account-EUR-[MOB_ANDROID]" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Product_Summary_Favorite_account_[MOB_ANDROID]" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Product_Summary.feature" />
+      <option name="GLUE" value="si.nlb.testautomation.NLBMobileAutomation.Test" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="NLBMobileAutomation" />
+      <option name="NAME_FILTER" value="^Product_Summary_Favorite_account_\[MOB_ANDROID\]$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Product_Summary_Favorite_account_\[MOB_ANDROID\]$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Product_Summary_Favorite_account_[MOB_ANDROID]" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Security_And_Authentication_Login_Page_Design_And_Elements_[MOB_ANDROID]" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Security_And_Authentication.feature" />
+      <option name="GLUE" value="si.nlb.testautomation.NLBMobileAutomation.Test" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="NLBMobileAutomation" />
+      <option name="NAME_FILTER" value="^Security_And_Authentication_Login_Page_Design_And_Elements_\[MOB_ANDROID\]$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Security_And_Authentication_Login_Page_Design_And_Elements_\[MOB_ANDROID\]$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Security_And_Authentication_Login_Page_Design_And_Elements_[MOB_ANDROID]" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Security_And_Authentication_Session_Expired_Due_To_Inactivity_Resume_Activity_[MOB_ANDROID]" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Security_And_Authentication.feature" />
+      <option name="GLUE" value="si.nlb.testautomation.NLBMobileAutomation.Test" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="NLBMobileAutomation" />
+      <option name="NAME_FILTER" value="^Security_And_Authentication_Session_Expired_Due_To_Inactivity_Resume_Activity_\[MOB_ANDROID\]$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Security_And_Authentication_Session_Expired_Due_To_Inactivity_Resume_Activity_\[MOB_ANDROID\]$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Security_And_Authentication_Session_Expired_Due_To_Inactivity_Resume_Activity_[MOB_ANDROID]" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Product_Summary_Favorite_account_[MOB_ANDROID]" />
+        <item itemvalue="Cucumber Java.Scenario: Security_And_Authentication_Login_Page_Design_And_Elements_[MOB_ANDROID]" />
+        <item itemvalue="Application.RunTest" />
+        <item itemvalue="Cucumber Java.Scenario: Authorized_Personal_Account_to_Personal_account-EUR-[MOB_ANDROID]" />
+        <item itemvalue="Cucumber Java.Scenario: Security_And_Authentication_Session_Expired_Due_To_Inactivity_Resume_Activity_[MOB_ANDROID]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdd46a5b-cddd-4ba3-bab2-1846ac766ae8" name="Changes" comment="" />
+      <created>1730795214948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730795214948</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Added C71535">
+      <option name="closed" value="true" />
+      <created>1742210122226</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1742210122226</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Added C71555">
+      <option name="closed" value="true" />
+      <created>1742284140771</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1742284140772</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Added C71557">
+      <option name="closed" value="true" />
+      <created>1742285045727</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1742285045727</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Added C75510">
+      <option name="closed" value="true" />
+      <created>1742293159061</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1742293159062</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Added C75618">
+      <option name="closed" value="true" />
+      <created>1742294585453</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1742294585453</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Added C75622">
+      <option name="closed" value="true" />
+      <created>1742301262989</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1742301262990</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Added C75623">
+      <option name="closed" value="true" />
+      <created>1742466242795</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1742466242795</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Added C71435">
+      <option name="closed" value="true" />
+      <created>1742467606978</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1742467606978</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Added minor fixes to tests">
+      <option name="closed" value="true" />
+      <created>1742892708228</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1742892708229</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Added fixes for sanity daily run">
+      <option name="closed" value="true" />
+      <created>1743495570817</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1743495570817</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Added C75625">
+      <option name="closed" value="true" />
+      <created>1743502474520</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1743502474521</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Added C75626">
+      <option name="closed" value="true" />
+      <created>1743503172626</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1743503172626</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Added other half of C75626">
+      <option name="closed" value="true" />
+      <created>1743504391484</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1743504391484</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Added C72485">
+      <option name="closed" value="true" />
+      <created>1743671699977</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1743671699977</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Added C75634">
+      <option name="closed" value="true" />
+      <created>1744286636955</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1744286636955</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Added C70833">
+      <option name="closed" value="true" />
+      <created>1744288372952</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1744288372952</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Added stabilization to tests">
+      <option name="closed" value="true" />
+      <created>1749632898003</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1749632898003</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Added stabilization to tests">
+      <option name="closed" value="true" />
+      <created>1756184474788</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1756184474788</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Added stabilization for sanity dashboard">
+      <option name="closed" value="true" />
+      <created>1756190972892</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1756190972892</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Added stabilization for sanity">
+      <option name="closed" value="true" />
+      <created>1756206912351</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1756206912351</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Added PSD2 class and imports.&#10;Added test C76392">
+      <option name="closed" value="true" />
+      <created>1756365937248</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1756365937249</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Added C76393">
+      <option name="closed" value="true" />
+      <created>1756368724260</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1756368724260</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Added C76461">
+      <option name="closed" value="true" />
+      <created>1756373517465</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1756373517465</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Added C76462">
+      <option name="closed" value="true" />
+      <created>1756380854727</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1756380854727</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Added C93400">
+      <option name="closed" value="true" />
+      <created>1756716267769</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1756716267770</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Added C99459">
+      <option name="closed" value="true" />
+      <created>1756719433997</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1756719433997</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Added C93806">
+      <option name="closed" value="true" />
+      <created>1756727119851</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1756727119852</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Added C93402">
+      <option name="closed" value="true" />
+      <created>1756793528106</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1756793528106</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Added C99461">
+      <option name="closed" value="true" />
+      <created>1756795478531</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1756795478531</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Added C93401">
+      <option name="closed" value="true" />
+      <created>1756806052302</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1756806052302</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Added C93401 fix">
+      <option name="closed" value="true" />
+      <created>1756806850950</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1756806850950</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Added C93804">
+      <option name="closed" value="true" />
+      <created>1756809923296</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1756809923297</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Added C99460">
+      <option name="closed" value="true" />
+      <created>1756811766667</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1756811766667</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Added C93404">
+      <option name="closed" value="true" />
+      <created>1756812449985</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1756812449986</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Added C93407">
+      <option name="closed" value="true" />
+      <created>1756812698885</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1756812698885</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Added C99463">
+      <option name="closed" value="true" />
+      <created>1756813670417</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1756813670417</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Added C99724">
+      <option name="closed" value="true" />
+      <created>1756815834219</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1756815834219</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Added C99724 fix">
+      <option name="closed" value="true" />
+      <created>1756969643604</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1756969643604</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Added stabilization">
+      <option name="closed" value="true" />
+      <created>1757916696037</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1757916696038</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Added C99737">
+      <option name="closed" value="true" />
+      <created>1758614393695</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1758614393695</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Added C99738, C99740, C99739">
+      <option name="closed" value="true" />
+      <created>1758615807324</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1758615807324</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Added C99743">
+      <option name="closed" value="true" />
+      <created>1758617161928</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1758617161928</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Added C99741">
+      <option name="closed" value="true" />
+      <created>1758621162814</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1758621162814</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Added C99742">
+      <option name="closed" value="true" />
+      <created>1758621634237</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1758621634237</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Added C99746">
+      <option name="closed" value="true" />
+      <created>1758622205302</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1758622205302</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Added C99747">
+      <option name="closed" value="true" />
+      <created>1758622549910</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1758622549910</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Added stabilization for changed Pay screen">
+      <option name="closed" value="true" />
+      <created>1758784491801</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1758784491802</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Added variations for test C99743">
+      <option name="closed" value="true" />
+      <created>1759819879293</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1759819879294</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Added support for appium 3">
+      <option name="closed" value="true" />
+      <created>1762253612524</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1762253612524</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added C93400" />
+    <MESSAGE value="Added C99459" />
+    <MESSAGE value="Added C93806" />
+    <MESSAGE value="Added C93402" />
+    <MESSAGE value="Added C99461" />
+    <MESSAGE value="Added C93401" />
+    <MESSAGE value="Added C93401 fix" />
+    <MESSAGE value="Added C93804" />
+    <MESSAGE value="Added C99460" />
+    <MESSAGE value="Added C93404" />
+    <MESSAGE value="Added C93407" />
+    <MESSAGE value="Added C99463" />
+    <MESSAGE value="Added C99724" />
+    <MESSAGE value="Added C99724 fix" />
+    <MESSAGE value="Added stabilization" />
+    <MESSAGE value="Added C99737" />
+    <MESSAGE value="Added C99738, C99740, C99739" />
+    <MESSAGE value="Added C99743" />
+    <MESSAGE value="Added C99741" />
+    <MESSAGE value="Added C99742" />
+    <MESSAGE value="Added C99746" />
+    <MESSAGE value="Added C99747" />
+    <MESSAGE value="Added stabilization for changed Pay screen" />
+    <MESSAGE value="Added variations for test C99743" />
+    <MESSAGE value="Added support for appium 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added support for appium 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/si/nlb/testautomation/NLBMobileAutomation/Test/Steps.java</url>
+          <line>1731</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/si/nlb/testautomation/NLBMobileAutomation/Test/Steps.java</url>
+          <line>6574</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/si/nlb/testautomation/NLBMobileAutomation/Test/Steps.java</url>
+          <line>6575</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/si/nlb/testautomation/NLBMobileAutomation/Test/Steps.java</url>
+          <line>6577</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/si/nlb/testautomation/NLBMobileAutomation/Test/Steps.java</url>
+          <line>6570</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/si/nlb/testautomation/NLBMobileAutomation/Test/Steps.java</url>
+          <line>6569</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/si/nlb/testautomation/NLBMobileAutomation/Action/RoutineHelper.java</url>
+          <line>1069</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
